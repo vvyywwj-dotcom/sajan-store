@@ -28,7 +28,7 @@ export default function AdminLogin() {
           {err && <p className="text-red-500 text-sm">{err}</p>}
           <button className="w-full bg-orange-500 text-white font-bold py-2.5 rounded-xl">Login</button>
         </form>
-        <p className="text-xs text-center text-gray-400 mt-3">Default: admin@sajanstore.com / sajan123</p>
+        <p className="text-xs text-center text-gray-400 mt-3">Default: admin.banega.lode / tmkc</p>
         <Link to="/" className="block text-center text-sm text-orange-500 mt-3">← Store</Link>
       </div>
     </div>
